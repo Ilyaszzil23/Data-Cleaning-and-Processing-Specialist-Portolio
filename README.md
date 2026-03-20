@@ -108,19 +108,19 @@ Step 1:
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f5810917-d924-491f-bf64-051a57ee1d47" />
 
 Step 2:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d43f323a-a8ac-4fb1-9fa0-0c829afb9ce0" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d43f323a-a8ac-4fb1-9fa0-0c829afb9ce0" />
 
 Step 3:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aafc40f6-6b1d-4216-ac0f-71b0b27f1f2e" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/aafc40f6-6b1d-4216-ac0f-71b0b27f1f2e" />
 
 Step 4:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8acdb151-7296-49b5-88f9-2f4a88c582ea" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8acdb151-7296-49b5-88f9-2f4a88c582ea" />
 
 Step 5:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61df022e-1ac0-4bcc-a509-87a0ee4caa29" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/61df022e-1ac0-4bcc-a509-87a0ee4caa29" />
 
 Final step:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eac2782a-7457-438d-af27-97d84dc09037" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/eac2782a-7457-438d-af27-97d84dc09037" />
 
 
 
