@@ -19,7 +19,7 @@ My CV in
 
 This is a repository to showcase skills, share projects and track my progress in Data & Processing Specialist related topics.
 
-## Table of contents
+# Table of contents
 
 - [About](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#About)
 
@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
   
-      - [Example: Cleaning and Organising Raw Data in Excel](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Example:-Cleaning-and-organising-Raw-Data-in-Excel)
+      - [Example: Cleaning and Organising Raw Data in Excel](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Example:-Cleaning-and-Organising-Raw-Data-in-Excel)
    
         
         
@@ -53,7 +53,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Contact)
 
 
-## Portfolio Projects
+# Portfolio Projects
 
 In this section I will list data and processing specalist projects briefly describing the technology stack and data technique used to solve cases.
 
@@ -73,9 +73,9 @@ In this section I will list data and processing specalist projects briefly descr
 
 
 
-## Spreadsheet Techniques in Excel (Sample Financial Data Project)
+# Spreadsheet Techniques in Excel (Sample Financial Data Project)
 
-# Data Organisation & Management
+## Data Organisation & Management
 
 In this example, I structured a dataset of income and expenses into a clean, logical format:
 
@@ -89,7 +89,7 @@ In this example, I structured a dataset of income and expenses into a clean, log
 
 This approach ensures that messy or unstructured data becomes reliable, easy to manage, and ready for analysis.
 
-# Formatting & Presentation
+## Formatting & Presentation
 
 I applied professional formatting techniques to make the spreadsheet user-friendly and visually clear:
 
@@ -105,7 +105,7 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 
-# Example: Cleaning and Organising Raw Data in Excel
+## Example: Cleaning and Organising Raw Data in Excel
 
 In this example, I created a raw dataset (messy version) to demonstrate how I organise and clean unstructured data step by step.
 
@@ -172,7 +172,7 @@ The dataset is now clean, structured, and easy to analyse. This demonstrates my 
 
 **Clean Data in Excel**: ['Raw data (Clean Version).csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Raw%20data%20(Clean%20Version).csv)
 
-## Education
+# Education
 
 **BSc (Joint Honours) in Business and Mathematics (2:1)**
 University of Hertfordshire - Graduated in 2021
@@ -203,7 +203,7 @@ University of Hertfordshire - Graduated in 2021
 
 This combination of skills and knowledge allows me to bridge the gap between **technical development** and **business insights**, ensuring data-driven decision-making and effective problem-solving.
 
-## Certificates
+# Certificates
 
 To support my academic background, I have also completed several certifications that demonstrate my practical skills in data analysis, business analysis, and programming. Here are my certifications in reverse-chronolgoical order:
 
@@ -214,7 +214,7 @@ To support my academic background, I have also completed several certifications 
 - [Business Analysis fundamental (Apr 2024)](https://www.udemy.com/certificate/UC-9b0193bd-a00b-48ee-843a-67d8fe2dfd1e/)
 
 
-## Contact
+# Contact
 
 - LinkedIn: [Ilyas88](https://www.linkedin.com/in/ilyas88)
 - Email:  ilyasM23@outlook.com
