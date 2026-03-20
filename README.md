@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
   
-      - [Cleaning and Organising Raw Data in Excel](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Cleaning-and-organising-Raw-Data-in-Excel)
+      - [Example: Cleaning and Organising Raw Data in Excel](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Example:-Cleaning-and-organising-Raw-Data-in-Excel)
    
         
         
