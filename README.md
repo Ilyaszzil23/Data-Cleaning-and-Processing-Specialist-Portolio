@@ -25,4 +25,31 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Portfolio Projects](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Portfolio-Projects)
 
-  - 
+  - Python:
+    
+      - NumPy
+
+  
+      - Pandas
+
+  - Spreadsheet techniques in Execl:
+  
+      - Data Organisation & Management
+
+        
+      - Formatting & Presentation
+ 
+        
+      - Avoid Common Pitfalls in Excel
+   
+    
+- [Education](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Education)
+
+  
+
+- [Certificates](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Certificates)
+
+
+
+- [Contact]([About](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Contact)
+
