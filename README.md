@@ -53,3 +53,73 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Contact](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Contact)
 
+
+## Portfolio Projects
+
+
+
+
+
+
+
+
+
+
+
+
+## Education
+
+**BSc (Joint Honours) in Business and Mathematics (2:1)**
+University of Hertfordshire - Graduated in 2021
+
+**Relevant Modules for Tech/Programming Roles (Mathematics):**
+
+- Mathematics Techniques level 1 & 2
+- Linear Algebra
+- Differential Equations
+- Number Theory
+- Real Analysis
+- Nonlinear Systems
+- Combinatorics
+
+**Relevant Modules for Business Analysis/Data-Driven Roles (Business):**
+- Business Analysis Tools
+- Quantitative Methods for Business
+- Financial Analysis Techniques
+- Management Science in Business
+- Performance Strategy
+- Principles of Operations Management
+
+**Key skills:**
+- Analytical Thinking & Problem-Solving
+- Data Analysis & Visualisation
+- Financial Modeling & Business Strategy
+- Mathematical Optimisation & Statistical Techniques
+
+This combination of skills and knowledge allows me to bridge the gap between **technical development** and **business insights**, ensuring data-driven decision-making and effective problem-solving.
+
+## Certificates
+
+To support my academic background, I have also completed several certifications that demonstrate my practical skills in data analysis, business analysis, and programming. Here are my certifications in reverse-chronolgoical order:
+
+- [Excel (Nov 2021)](https://www.udemy.com/certificate/UC-eecbc119-e324-4e76-8471-b8acc234cd4d/)
+- [Python (Mar 2022)](https://www.udemy.com/certificate/UC-baf8f1d5-a867-43fc-bc35-3a4f0a5db8ab/)
+- [The SQL Bootcamp (Apr 2022)](https://www.udemy.com/certificate/UC-7bcc7ceb-432a-4879-b336-eaee35b5264b/)
+- [Power BI - Data Analytics (Jun 2022)](https://www.udemy.com/certificate/UC-102aa202-6dfc-46ee-97ca-69e4d627ead7/)
+- [Business Analysis fundamental (Apr 2024)](https://www.udemy.com/certificate/UC-9b0193bd-a00b-48ee-843a-67d8fe2dfd1e/)
+
+
+## Contact
+
+- LinkedIn: [Ilyas88](https://www.linkedin.com/in/ilyas88)
+- Email:  ilyasM23@outlook.com
+- Upwork: 
+
+
+
+
+
+
+
+
+
