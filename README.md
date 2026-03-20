@@ -32,7 +32,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
       - Pandas
 
-  - Spreadsheet techniques in Execl:
+  - Spreadsheet techniques in Execl (Sample Financial Data Project):
+
+To demonstrate my Excel capabilities, I created a sample financial dataset based on real-world scenarios from my experience in bookkeeping and accounting. This project reflects how I organise and manage financial data such as income, expenses, and transactions—while maintaining full client confidentiality.
   
       - Data Organisation & Management
 
