@@ -105,7 +105,7 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 Step 1:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5810917-d924-491f-bf64-051a57ee1d47" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f5810917-d924-491f-bf64-051a57ee1d47" />
 
 Step 2:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d43f323a-a8ac-4fb1-9fa0-0c829afb9ce0" />
