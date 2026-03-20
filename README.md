@@ -57,13 +57,26 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
+In this section I will list data and processing specalist projects briefly describing the technology stack and data technique used to solve cases.
+
+[Data Organisation & Management](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Data-Organisation-&-Management)
+
+In this example, I structured a dataset of income and expenses into a clean, logical format:
+
+- Transactions organised by date for accurate tracking
+
+- Clear categorisation of income and expense types
+
+- Separate columns for amounts, descriptions, and references
+
+- Structured tables to support financial reporting (e.g. profit & loss)
+
+This approach ensures that messy or unstructured data becomes reliable, easy to manage, and ready for analysis.
 
 
 
 
-
-
-
+## Spreadsheet Techniques in Excel (Sample Financial Data Project)
 
 
 
