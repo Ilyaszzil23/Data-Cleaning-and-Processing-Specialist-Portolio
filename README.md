@@ -105,7 +105,7 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 
-## Example: Cleaning and Organising Raw Data in Excel
+# Example: Cleaning and Organising Raw Data in Excel
 
 In this example, I created a raw dataset (messy version) to demonstrate how I organise and clean unstructured data step by step.
 
