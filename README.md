@@ -101,30 +101,72 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 
-**Raw Excel:** ['Raw-data-(messy-Version).csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Raw%20data%20(Messy%20Version).csv)
+Example: Cleaning and Organising Raw Data in Excel
+
+In this example, I created a raw dataset (messy version) to demonstrate how I organise and clean unstructured data step by step.
+
+**Raw Data in Excel:** ['Raw-data-(messy-Version).csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Raw%20data%20(Messy%20Version).csv)
 
 
-Step 1:
+
+Step 1: Sorting Data
+
+Highlight all data (excluding the headers), then go to Sort & Filter and click Sort.
+Select the Amount column and sort from largest to smallest, then click OK.
+
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f5810917-d924-491f-bf64-051a57ee1d47" />
 
-Step 2:
+
+
+Step 2: Separating Income and Expenses
+
+Next, I split the Amount column into two separate columns: Income and Expense, to improve clarity and make the data easier to analyse.
+
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d43f323a-a8ac-4fb1-9fa0-0c829afb9ce0" />
 
-Step 3:
+
+
+Step 3: Cleaning Expense Values
+
+Highlight the Expense column, then go to Find & Replace.
+In Find what, type - and leave Replace with blank.
+
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/aafc40f6-6b1d-4216-ac0f-71b0b27f1f2e" />
 
-Step 4:
+
+
+
+Step 4: Applying Replace
+
+Click Replace All to remove negative signs and standardise the data format.
+
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8acdb151-7296-49b5-88f9-2f4a88c582ea" />
 
-Final step:
+
+
+
+Final Step: Sorting by Date
+
+Finally, sort the data by date to ensure all transactions are in chronological order.
+Highlight the table and use Sort (Oldest to Newest).
+
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/733a1fbf-09b6-4492-bcc9-f19a2fc8941e" />
 
 
-Result: 
+Result
+
+The dataset is now clean, structured, and easy to analyse. This demonstrates my skills in **data organisation and management**, as well as **formatting and presentation** in Excel.
+
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/18e627ee-c810-4058-a7a7-20f1dd274bbc" />
 
 
-
+**Clean Data in Excel**: ['Raw data (Clean Version).csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Raw%20data%20(Clean%20Version).csv)
 
 ## Education
 
