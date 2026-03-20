@@ -35,11 +35,9 @@ This is a repository to showcase skills, share projects and track my progress in
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
   
-      - [Data Organisation & Management](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Data-Organisation-&-Management)
-
+      - [Cleaning and Organising Raw Data in Excel](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Cleaning-and-organising-Raw-Data-in-Excel)
+   
         
-      - Formatting & Presentation
- 
         
       - Avoid Common Pitfalls in Excel
    
@@ -69,9 +67,15 @@ In this section I will list data and processing specalist projects briefly descr
 
 
 
+
+
+
+
+
+
 ## Spreadsheet Techniques in Excel (Sample Financial Data Project)
 
-Data Organisation & Management
+# Data Organisation & Management
 
 In this example, I structured a dataset of income and expenses into a clean, logical format:
 
@@ -85,7 +89,7 @@ In this example, I structured a dataset of income and expenses into a clean, log
 
 This approach ensures that messy or unstructured data becomes reliable, easy to manage, and ready for analysis.
 
-Formatting & Presentation
+# Formatting & Presentation
 
 I applied professional formatting techniques to make the spreadsheet user-friendly and visually clear:
 
@@ -101,18 +105,7 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Example: Cleaning and Organising Raw Data in Excel
+# Example: Cleaning and Organising Raw Data in Excel
 
 In this example, I created a raw dataset (messy version) to demonstrate how I organise and clean unstructured data step by step.
 
