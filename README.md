@@ -1,4 +1,4 @@
-## Ilyas Mohamed - Data Cleaning & Processing Specialist Portfolio
+# Ilyas Mohamed - Data Cleaning & Processing Specialist Portfolio
 
 ## Hi, I hope you enjoy reading my portfolio project!
 
@@ -105,7 +105,7 @@ I applied professional formatting techniques to make the spreadsheet user-friend
 
 
 
-# Example: Cleaning and Organising Raw Data in Excel
+## Example: Cleaning and Organising Raw Data in Excel
 
 In this example, I created a raw dataset (messy version) to demonstrate how I organise and clean unstructured data step by step.
 
@@ -171,6 +171,20 @@ The dataset is now clean, structured, and easy to analyse. This demonstrates my 
 
 
 **Clean Data in Excel**: ['Raw data (Clean Version).csv'](https://github.com/Ilyaszzil23/Portfolio-Projects/blob/main/Raw%20data%20(Clean%20Version).csv)
+
+## Avoiding Common Excel Pitfalls
+
+This project also demonstrates best practices to maintain accuracy and prevent errors:
+
+Avoiding hard-coded values inside formulas
+
+Ensuring consistency in data entry (dates, categories, formats)
+
+Minimising duplication and keeping datasets clean
+
+Using formulas (e.g. totals, summaries) instead of manual calculations
+
+These techniques are essential when working with financial data, where accuracy and reliability are critical.
 
 # Education
 
