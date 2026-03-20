@@ -117,10 +117,11 @@ Step 4:
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8acdb151-7296-49b5-88f9-2f4a88c582ea" />
 
 Final step:
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/1bf7fa31-fdd6-4b1b-9e39-217f5d9a83e8" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/733a1fbf-09b6-4492-bcc9-f19a2fc8941e" />
 
 
-Result: <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5d8e965d-9390-4608-aee4-1a4a6ba8438c" />
+Result: 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/18e627ee-c810-4058-a7a7-20f1dd274bbc" />
 
 
 
