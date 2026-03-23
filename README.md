@@ -186,6 +186,25 @@ Using formulas (e.g. totals, summaries) instead of manual calculations
 
 These techniques are essential when working with financial data, where accuracy and reliability are critical.
 
+
+This example demonstrates how to efficiently use a conditional formula in expense spreeadsheet.
+
+First, there is no need to manually copy and paste costs into the table, as this would be time-consuming and may lead to errors or confusion.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/4ade505e-644d-450f-bb5f-c5d1e26f7a0f" />
+
+
+Next, a conditional formula is used to simplify the process. By entering a reference number, the formula automatically retrieves and displays the corresponding cost in the correct column.
+
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/29797ccb-0c2b-4f0f-9e13-5e71c8eb7d18" />
+
+
+Finally, the formula uses a combination of absolute and relative cell references. The **$**  symbol locks either the row or the column (e.g., $H12 fixes the column, while H$12 fixes the row), allowing the formula to be copied across the table without breaking. This ensures that each value is placed correctly based on the matching number and column header.
+
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/71781e4a-0a22-4016-8b59-6e917798a4b4" />
+
 # Education
 
 **BSc (Joint Honours) in Business and Mathematics (2:1)**
