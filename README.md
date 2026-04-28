@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [About](#About)
 
-- [Portfolio Projects](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#Portfolio-Projects)
+- [Portfolio Projects](#Portfolio-Projects)
 
   - Pandas - Cleaning data:
   
@@ -33,22 +33,22 @@ This is a repository to showcase skills, share projects and track my progress in
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
   
-      - [Cleaning and Organising Raw Data in Excel](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Example:-Cleaning-and-Organising-Raw-Data-in-Excel)
+      - [Cleaning and Organising Raw Data in Excel](#Example:-Cleaning-and-Organising-Raw-Data-in-Excel)
    
         
         
-      - Avoid Common Pitfalls in Excel
+      - [Avoid Common Pitfalls in Excel](#Avoiding-Common-Excel-Pitfalls)
    
     
-- [Education](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Education)
+- [Education](#Education)
 
   
 
-- [Certificates](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Certificates)
+- [Certificates](#Certificates)
 
 
 
-- [Contact](https://github.com/Ilyaszzil23/Data-Cleaning-and-Processing-Specialist-Portolio/blob/main/README.md#Contact)
+- [Contact](#Contact)
 
 
 # Portfolio Projects
