@@ -89,11 +89,8 @@ This analysis aims to support the World bank's understanding of global health an
 In this example, I structured a dataset of income and expenses into a clean, logical format:
 
 - Transactions organised by date for accurate tracking
-
 - Clear categorisation of income and expense types
-
 - Separate columns for amounts, descriptions, and references
-
 - Structured tables to support financial reporting (e.g. profit & loss)
 
 This approach ensures that messy or unstructured data becomes reliable, easy to manage, and ready for analysis.
@@ -103,13 +100,9 @@ This approach ensures that messy or unstructured data becomes reliable, easy to 
 I applied professional formatting techniques to make the spreadsheet user-friendly and visually clear:
 
 - Consistent formatting for dates and currency
-
 - Use of Excel tables, filters, and sorting
-
 - Conditional formatting to highlight key values (e.g. high expenses)
-
 - Clean layout designed for easy navigation and updates
-
 - The goal is to make financial data not just accurate, but easy to understand at a glance.
 
 
