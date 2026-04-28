@@ -33,7 +33,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
  
   
-      - [Cleaning and Organising Raw Data in Excel](#Cleaning-and-Organising-Raw-Data-in-Excel)
+      - [Example: Cleaning and Organising Raw Data in Excel](#example-cleaning-and-organising-raw-data-in-excel)
    
         
         
