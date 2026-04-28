@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - Pandas - Cleaning data:
   
-      - [Global Demographic Data Cleaning (1960–2013)](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#Global-Demographic-Data-Cleaning-(1960–2013))  
+      - [Global Demographic Data Cleaning (1960–2013)](https://github.com/Ilyaszzil23/Data-Cleaning-Specialist-Portolio/blob/main/README.md#Section_1:-Global-Demographic-Data-Cleaning-(1960–2013))
     
 
   - Spreadsheet techniques in Execl (Sample Financial Data Project):
@@ -57,7 +57,7 @@ In this section I will list data and processing specalist projects briefly descr
 
 
 
-## Global Demographic Data Cleaning (1960–2013)
+## Section_1: Global Demographic Data Cleaning (1960–2013)
 
 **Goal statement:** I cleaned and standardised global demographic data to ensure reliable analysis of life expectancy and fertility rates across countries and regions.
 
